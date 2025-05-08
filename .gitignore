@@ -1,0 +1,12 @@
+# MacOS
+.DS_Store
+
+# Default TypeSpec output
+build/
+dist/
+express/schema.d.ts
+
+# Dependency directories
+node_modules/
+
+tsp-output/
